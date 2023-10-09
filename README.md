@@ -35,7 +35,7 @@ This is the information I retrieved:
 8.  List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 ## Software and Languages
-    Full Listing:
+Full Listing:
 * pgAdmin 4 / PostgreSQL
 * Excel
 * Quick Database Diagrams (https://www.quickdatabasediagrams.com)
