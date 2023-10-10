@@ -1,4 +1,4 @@
-# Creating Employee SQL Database 
+# Creating an Employee SQL Database 
 
 ## Creating and Working With a Database from CSV Files
 
